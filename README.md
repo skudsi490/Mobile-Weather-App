@@ -71,31 +71,27 @@ The expanded weather details screen shows additional information such as wind gu
 ### Installation
 
 1. **Clone the repository:**
-   ```bash
+
    git clone https://github.com/your-username/weather_app.git
    cd weather_app
 
-```
 
 1. **Install dependencies:**
     
-    ```bash
     flutter pub get
-    ```
+
     
 2. **Setup API key:**
 Replace the placeholder API key in the `lib/services/weather_service.dart` file with your OpenWeatherMap API key.
 
 3. **Run the app:**
-    
-    ```bash
+
     flutter run
-    ```
+
     
 
 ## Project Structure
 
-```
 weather_app/
 │
 ├── android/                  # Android specific files
@@ -119,7 +115,7 @@ weather_app/
 ├── pubspec.yaml              # Pubspec file for dependencies
 └── README.md                 # Project README file
 
-```
+
 
 ## Key Components
 
@@ -144,9 +140,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For any inquiries or feedback, please contact [your-email@example.com].
+For any inquiries or feedback, please contact [sami.alkudsi@gmail.com].
 
-```jsx
 This `README.md` file now provides a comprehensive overview of your Weather App, incorporating explanations and screens
-
-```
