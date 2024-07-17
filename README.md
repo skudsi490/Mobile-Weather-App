@@ -87,36 +87,7 @@ Replace the placeholder API key in the `lib/services/weather_service.dart` file 
 3. **Run the app:**
 
     flutter run
-
-    
-
-## Project Structure
-
-weather_app/
-│
-├── android/                  # Android specific files
-├── assets/                   # App assets like images and icons
-├── build/                    # Generated build files
-├── ios/                      # iOS specific files
-├── lib/                      # Main source code directory
-│   ├── models/               # Data models
-│   ├── screens/              # UI screens
-│   ├── services/             # Service classes for API calls
-│   ├── utils/                # Utility classes and functions
-│   ├── widgets/              # Custom widgets
-│   ├── main.dart             # App entry point
-├── test/                     # Unit and widget tests
-├── web/                      # Web specific files
-├── .flutter-plugins          # Flutter plugins
-├── .gitignore                # Git ignore file
-├── .metadata                 # Project metadata
-├── analysis_options.yaml     # Analysis options
-├── pubspec.lock              # Pubspec lock file
-├── pubspec.yaml              # Pubspec file for dependencies
-└── README.md                 # Project README file
-
-
-
+  
 ## Key Components
 
 - **Main Screen**: Displays current weather information.
